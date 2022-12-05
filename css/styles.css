@@ -12,3 +12,23 @@ select,
 button {
   display: block;
 }
+
+article {
+  padding-right: 2rem;
+  border-right: 2px solid #fb28a8;
+}
+
+.form {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 2rem;
+  align-items: start;
+  padding: 1.5rem;
+  background: #3a243f;
+  color: #3a243f;
+  border-radius: 8px;
+}
+
+.body {
+  line-height: 1.4;
+}
