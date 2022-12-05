@@ -25,10 +25,15 @@ article {
   align-items: start;
   padding: 1.5rem;
   background: #3a243f;
-  color: #3a243f;
   border-radius: 8px;
 }
 
 .body {
   line-height: 1.4;
+}
+
+button {
+  margin-top: 30px;
+  color: #fb28a8;
+  height: 40px;
 }
